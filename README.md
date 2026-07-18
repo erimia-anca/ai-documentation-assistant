@@ -7,16 +7,19 @@ AI Documentation Assistant is an AI-powered application that allows users to ask
 The application reads documentation files from a folder, sends the relevant documentation together with the user's question to Google's Gemini API, and displays the AI-generated response in a chat interface.
 
 ### ✦Technologies
-♡ JavaScript
+  ♡ JavaScript
 
-♡ Node.js
+  ♡ Node.js
 
-♡ Express.js
+  ♡ Express.js
 
-♡ HTML
-- ♡ CSS
-- ♡ Gemini API
-- ♡ npm
+  ♡ HTML
+  
+  ♡ CSS
+  
+  ♡ Gemini API
+  
+  ♡ npm
 
 ## ✦Features
 
