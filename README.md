@@ -86,5 +86,9 @@ Through this project, I learned more about:
 
 In the future, I would like to improve the project by making the documentation processing more efficient and by adding better context management. I also plan to change the documentation from project-related information to information about hamster health, helping people who are concerned about their hamsters find reliable information based on verified documentation.
 
+## ✦Video
+
+https://github.com/user-attachments/assets/9e4f8f83-a056-499d-86ee-88924dec0738
+
 
 
