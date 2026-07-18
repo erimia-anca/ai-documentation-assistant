@@ -23,14 +23,21 @@ The application reads documentation files from a folder, sends the relevant docu
 
 ## ✦Features
 
-- ♡ Read documentation files from a project folder
-- ♡ Send documentation and user questions to Gemini
-- ♡ Receive AI-generated answers
-- ♡ Display conversations in a chat interface
-- ♡ Automatically scroll to the latest message
-- ♡ Clear the input field after sending a question
-- ♡ Process JSON responses from the AI API
-- ♡ Dynamically update the interface with AI-generated responses
+  ♡ Read documentation files from a project folder
+  
+  ♡ Send documentation and user questions to Gemini
+  
+  ♡ Receive AI-generated answers
+  
+  ♡ Display conversations in a chat interface
+  
+  ♡ Automatically scroll to the latest message
+  
+  ♡ Clear the input field after sending a question
+  
+  ♡ Process JSON responses from the AI API
+  
+  ♡ Dynamically update the interface with AI-generated responses
 
 ## ✦The process
 
@@ -45,23 +52,35 @@ The interface was made last, inspierd by ChatGPT, Discord and Slack. It also upd
 ## ✦What I learned
 
 Through this project, I learned more about:
-
-- ♡ Working with Node.js and Express
-- ♡ Creating and using API endpoints
-- ♡ Sending requests to external APIs
-- ♡ Working with JSON data
-- ♡ Handling asynchronous operations
-- ♡ Reading files from the filesystem
-- ♡ Connecting a web application to an AI API
-- ♡ Building a basic chat interface
-- ♡ Debugging backend and frontend communication
-- ♡ Structuring a small full-stack application
+  
+  ♡ Working with Node.js and Express
+  
+  ♡ Creating and using API endpoints
+  
+  ♡ Sending requests to external APIs
+  
+  ♡ Working with JSON data
+  
+  ♡ Handling asynchronous operations
+  
+  ♡ Reading files from the filesystem
+  
+  ♡ Connecting a web application to an AI API
+  
+  ♡ Building a basic chat interface
+  
+  ♡ Debugging backend and frontend communication
+  
+  ♡ Structuring a small full-stack application
 
 ## ✦Possible improvements
-- ♡ Conversation history
-- ♡ Better error handling
-- ♡ A more advanced user interface that mixes more the platforms that inspierd the look of the project
-- ♡ The possibility to send the message to the chat by pressing the button 'Enter'
+  ♡ Conversation history
+  
+  ♡ Better error handling
+  
+  ♡ A more advanced user interface that mixes more the platforms that inspierd the look of the project
+  
+  ♡ The possibility to send the message to the chat by pressing the button 'Enter'
 
 ## ✦Future improvements
 
