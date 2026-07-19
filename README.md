@@ -1,4 +1,4 @@
-## ✦AI Documentation Assistant
+## ✦ AI Documentation Assistant
 This project was created as a learning project. I used AI as a learning and development tool to help me understand concepts, explore solutions, debug issues, and improve my code. The project was built to practice working with APIs, documentation processing, backend development, and AI integration.
 
 ### ✦About the project
@@ -6,7 +6,7 @@ AI Documentation Assistant is an AI-powered application that allows users to ask
 
 The application reads documentation files from a folder, sends the relevant documentation together with the user's question to Google's Gemini API, and displays the AI-generated response in a chat interface.
 
-### ✦Technologies
+### ✦ Technologies
   ♡ JavaScript
 
   ♡ Node.js
@@ -21,7 +21,7 @@ The application reads documentation files from a folder, sends the relevant docu
   
   ♡ npm
 
-## ✦Features
+## ✦ Features
 
   ♡ Read documentation files from a project folder
   
@@ -39,7 +39,7 @@ The application reads documentation files from a folder, sends the relevant docu
   
   ♡ Dynamically update the interface with AI-generated responses
 
-## ✦The process
+## ✦ The process
 
 The project started with exploring what APIs are and basic methods to work with them. After gaining a bit of basic knowledge, a basic server was set up alongside with the backend logic.
 
@@ -49,7 +49,7 @@ The AI response is then returned to the frontend, converted from JSON into a Jav
 
 The interface was made last, inspierd by ChatGPT, Discord and Slack. It also updates automatically by scrolling to the latest message, making the conversation easier to follow.
 
-## ✦What I learned
+## ✦ What I learned
 
 Through this project, I learned more about:
   
@@ -73,7 +73,7 @@ Through this project, I learned more about:
   
   ♡ Structuring a small full-stack application
 
-## ✦Possible improvements
+## ✦ Possible improvements
   ♡ Conversation history
   
   ♡ Better error handling
@@ -82,11 +82,11 @@ Through this project, I learned more about:
   
   ♡ The possibility to send the message to the chat by pressing the button 'Enter'
 
-## ✦Future improvements
+## ✦ Future improvements
 
 In the future, I would like to improve the project by making the documentation processing more efficient and by adding better context management. I also plan to change the documentation from project-related information to information about hamster health, helping people who are concerned about their hamsters find reliable information based on verified documentation.
 
-## ✦Video
+## ✦ Video
 
 https://github.com/user-attachments/assets/9e4f8f83-a056-499d-86ee-88924dec0738
 
