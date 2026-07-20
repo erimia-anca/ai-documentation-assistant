@@ -1,6 +1,8 @@
 ## ✦ AI Documentation Assistant
 This project was created as a learning project. I used AI as a learning and development tool to help me understand concepts, explore solutions, debug issues, and improve my code. The project was built to practice working with APIs, documentation processing, backend development, and AI integration.
 
+Also, if you want to use this project, an .env document is needed where you put the Gemini API Key.
+
 ### ✦ About the project
 AI Documentation Assistant is an AI-powered application that allows users to ask questions about a project's documentation and receive answers based on the available documentation files, in this case README.md and INSTALL.md.
 
